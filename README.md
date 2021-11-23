@@ -1,6 +1,6 @@
 # CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-62-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-67-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -71,6 +71,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 ### Dataset
 
 1. **ConvRec**: "Conversational Recommender System". `SIGIR(2018)` [[PDF]](https://arxiv.org/pdf/1806.03277) [[Homepage]](https://github.com/ysun30/ConvRec)
+
 2. **SAUR**: "Towards Conversational Search and Recommendation: System Ask, User Respond". `CIKM(2018)` [[PDF]](https://par.nsf.gov/servlets/purl/10090082) [[Download]](http://yongfeng.me/attach/conversation.zip)
 3. **EAR**: "Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems". `WSDM(2020)` [[PDF]](https://arxiv.org/pdf/2002.09102) [[Homepage]](https://ear-conv-rec.github.io/)
 4. **CPR**: "Interactive Path Reasoning on Graph for Conversational Recommendation". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2007.00194) [[Homepage]](https://cpr-conv-rec.github.io/)
@@ -84,9 +85,9 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 12. **INSPIRED**: "INSPIRED: Toward Sociable Recommendation Dialogue Systems". `EMNLP(2020)` [[PDF]](https://www.aclweb.org/anthology/2020.emnlp-main.654.pdf) [[Homepage]](https://github.com/sweetpeach/Inspired)
 13. **MGConvRex**: "User Memory Reasoning for Conversational Recommendation". `ACL(2020)` [[PDF]](https://arxiv.org/pdf/2006.00184)
 14. **COOKIE**: "COOKIE: A Dataset for Conversational Recommendation over Knowledge Graphs in E-commerce". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2008.09237) [[Homepage]](https://github.com/zuohuif/COOKIE)
-
 15. **IARD**: "Predicting User Intents and Satisfaction with Dialogue-based Conversational Recommendations". `UMAP(2020)` [[PDF]](http://www.comp.hkbu.edu.hk/~lichen/download/Cai_UMAP20.pdf) [[Homepage]](https://wanlingcai.github.io/files/2020/UMAP2020_dataset_readme.html)
-
+16. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Homepage]](https://github.com/liuzeming01/DuRecDial)
+17. **MMConv**: "MMConv: An Environment for Multimodal Conversational Search across Multiple Domains". `SIGIR(2021)` [[PDF]](https://liziliao.github.io/papers/2021sigir_mmconv.pdf) [[Homepage]](https://github.com/liziliao/MMConv)
 
 
 ## Model
@@ -105,7 +106,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 8. **CRSAL**: "CRSAL: Conversational Recommender Systems with Adversarial Learning". `TOIS(2020)` [[PDF]](https://repository.kaust.edu.sa/bitstream/handle/10754/665725/TOIS.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/XuhuiRen/CRSAL)
 9. **Qrec**: "Towards Question-Based Recommender Systems". `SIGIR(2020)` [[PDF]](https://arxiv.org/pdf/2005.14255.pdf) [[Code]](https://github.com/JieZouIR/Qrec)
 10. **ConTS**: "Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users". `TOIS(2021)` [[PDF]](https://arxiv.org/pdf/2005.12979) [[Code]](https://github.com/xiwenchao/conTS-TOIS-2021)
-11. **UNICORN**: "Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning". `SIGIR(2021)` [[PDF]](https://arxiv.org/pdf/2105.09710.pdf)
+11. **UNICORN**: "Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning". `SIGIR(2021)` [[PDF]](https://arxiv.org/pdf/2105.09710.pdf) [[Code]](https://github.com/dengyang17/unicorn)
 12. **KBQG**: "Learning to Ask Appropriate Questions in Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2105.04774.pdf) [[Code]](https://github.com/XuhuiRen/KBQG)
 13. "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation". `WSDM(2021)` [[Link]](https://dl.acm.org/doi/abs/10.1145/3437963.3441791)
 
@@ -116,6 +117,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 > Compared to attribute-based CRSs, generation-based CRSs pay more attention to generate human-like responses in natural language.
 
 1. **ReDial**: "Towards Deep Conversational Recommendations". `NeurIPS(2018)` [[PDF]](https://arxiv.org/pdf/1812.07617) [[Code]](https://github.com/RaymondLi0/conversational-recommendations) [[Dataset]](https://redialdata.github.io/website/)
+
 2. **KBRD**: "Towards Knowledge-Based Recommender Dialog System". `EMNLP-IJCNLP(2019)` [[PDF]](https://arxiv.org/pdf/1908.05391.pdf) [[Code]](https://github.com/THUDM/KBRD)
 3. **GoRecDial**: "Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue". `EMNLP(2019)` [[PDF]](https://arxiv.org/pdf/1909.03922) [[Code]](https://github.com/facebookresearch/ParlAI) [[Dataset]](https://drive.google.com/drive/folders/1nilk6FUktW2VjNlATdM0VMehzSOPIvJ0?usp=sharing)
 4. **DialKG Walker**: "OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs". `ACL(2019)` [[PDF]](https://www.aclweb.org/anthology/P19-1081.pdf) [[Code]](https://github.com/madcpt/OpenDialKG) [[Dataset]](https://github.com/facebookresearch/opendialkg)
@@ -128,14 +130,16 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 11. **MGConvRex**: "User Memory Reasoning for Conversational Recommendation". `COLING(2020)` [[PDF]](https://arxiv.org/pdf/2006.00184)
 12. **KGConvRec**: "Suggest me a movie for tonight: Leveraging Knowledge Graphs for Conversational Recommendation". `COLING(2020)` [[PDF]](https://www.aclweb.org/anthology/2020.coling-main.369.pdf) [[Code]](https://github.com/rajbsk/KG-conv-rec)
 13. **CR-Walker**: "Bridging the Gap between Conversational Reasoning and Interactive Recommendation". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2010.10333.pdf) [[Code]](https://github.com/truthless11/CR-Walker)
-14. **RevCore**: "RevCore: Review-augmented Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2106.00957.pdf) [[Code]](https://github.com/JD-AI-Research-NLP/RevCore)
+14. **RevCore**: "RevCore: Review-augmented Conversational Recommendation". `ACL-Findings(2021)` [[PDF]](https://arxiv.org/pdf/2106.00957.pdf) [[Code]](https://github.com/JD-AI-Research-NLP/RevCore)
 15. **KECRS**: "KECRS: Towards Knowledge-Enriched Conversational Recommendation System". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2105.08261.pdf)
-
 16. "Category Aware Explainable Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2103.08733.pdf)
+17. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Dataset]](https://github.com/liuzeming01/DuRecDial)
+18. **NTRD**: "Learning Neural Templates for Recommender Dialogue System." `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.12302.pdf) [[Code]](https://github.com/jokieleung/NTRD)
 
 ### Others
 
 1. **Converse-Et-Impera**: "Converse-Et-Impera: Exploiting Deep Learning and Hierarchical Reinforcement Learning for Conversational Recommender Systems". `AI*IA(2017)` [[PDF]](https://www.researchgate.net/profile/Alessandro-Suglia/publication/320875588_Converse-Et-Impera_Exploiting_Deep_Learning_and_Hierarchical_Reinforcement_Learning_for_Conversational_Recommender_Systems/links/5bf6ad1592851c6b27d27324/Converse-Et-Impera-Exploiting-Deep-Learning-and-Hierarchical-Reinforcement-Learning-for-Conversational-Recommender-Systems.pdf)
+
 2. "A Model of Social Explanations for a Conversational Movie Recommendation System". `HAI(2019)` [[PDF]](https://eprints.gla.ac.uk/193937/7/193937.pdf)
 3. "Dynamic Online Conversation Recommendation". `ACL(2020)` [[PDF]](https://www.aclweb.org/anthology/2020.acl-main.305.pdf) [[Code]](https://github.com/zxshamson/dy-conv-rec)
 4. **IAI MovieBot**: "IAI MovieBot: A Conversational Movie Recommender System". `CIKM(2020)` [[PDF]](https://arxiv.org/pdf/2009.03668.pdf) [[Code]](https://github.com/iai-group/moviebot)
@@ -143,8 +147,9 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 6. **Cora**: "A Socially-Aware Conversational Recommender System for Personalized Recipe Recommendations". `HAI(2020)` [[PDF]](https://www.researchgate.net/profile/Florian-Pecune/publication/346716927_A_Socially-Aware_Conversational_Recommender_System_for_Personalized_Recipe_Recommendations/links/5fcf621045851568d149d95e/A-Socially-Aware-Conversational-Recommender-System-for-Personalized-Recipe-Recommendations.pdf)
 7. "Conversational Music Recommendation based on Bandits". `ICKG(2020)` [[Link]](https://ieeexplore.ieee.org/abstract/document/9194509/)
 8. **n-by-p**: "Navigation-by-preference: a new conversational recommender with preference-based feedback". `IUI(2020)` [[PDF]](http://www.cs.ucc.ie/~dgb/papers/Rana-Bridge-2020.pdf)
-
 9. "A Bayesian Approach to Conversational Recommendation Systems". `AAAI Workshop(2020)` [[PDF]](https://arxiv.org/pdf/2002.05063.pdf)
+10. "Towards Retrieval-based Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2109.02311.pdf)
+11. ""It doesn’t look good for a date": Transforming Critiques into Preferences for Conversational Recommendation Systems". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.07576.pdf)
 
 
 
