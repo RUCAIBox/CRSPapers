@@ -1,6 +1,6 @@
 # CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-68-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-85-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -88,6 +88,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 15. **IARD**: "Predicting User Intents and Satisfaction with Dialogue-based Conversational Recommendations". `UMAP(2020)` [[PDF]](http://www.comp.hkbu.edu.hk/~lichen/download/Cai_UMAP20.pdf) [[Homepage]](https://wanlingcai.github.io/files/2020/UMAP2020_dataset_readme.html)
 16. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Homepage]](https://github.com/liuzeming01/DuRecDial)
 17. **MMConv**: "MMConv: An Environment for Multimodal Conversational Search across Multiple Domains". `SIGIR(2021)` [[PDF]](https://liziliao.github.io/papers/2021sigir_mmconv.pdf) [[Homepage]](https://github.com/liziliao/MMConv)
+18. **INSPIRED2**: "INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation." `RecSys(2022)` [[PDF]](https://arxiv.org/pdf/2208.04104.pdf) [[Homepage]](https://github.com/ahtsham58/INSPIRED2)
 
 
 ## Model
@@ -111,6 +112,10 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 13. **FPAN**: "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation". `WSDM(2021)` [[Link]](https://dl.acm.org/doi/abs/10.1145/3437963.3441791) [[Code]](https://github.com/xxkkrr/FPAN)
 
 14. "Developing a Conversational Recommendation System for Navigating Limited Options". `CHI(2021)` [[PDF]](https://arxiv.org/pdf/2104.06552.pdf)
+15. **MCMIPL**: "Multiple Choice Questions based Multi-Interest Policy Learning for Conversational Recommendation." `WWW(2022)` [[PDF]](https://arxiv.org/pdf/2112.11775.pdf) [[Code]](https://github.com/ZYM6-6/MCMIPL)
+16. "Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems." `CIKM(2022)` [[PDF]](https://arxiv.org/pdf/2208.03298.pdf)
+17. **MINICORN**: "Minimalist and High-performance Conversational Recommendation with Uncertainty Estimation for User Preference." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2206.14468.pdf)
+18. **MetaCRS**: "Meta Policy Learning for Cold-Start Conversational Recommendation." `WSDM(2023)` [[PDF]](https://arxiv.org/pdf/2205.11788.pdf)
 
 ### Generation-based
 
@@ -135,7 +140,20 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 16. "Category Aware Explainable Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2103.08733.pdf)
 17. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Dataset]](https://github.com/liuzeming01/DuRecDial)
 18. **NTRD**: "Learning Neural Templates for Recommender Dialogue System." `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.12302.pdf) [[Code]](https://github.com/jokieleung/NTRD)
-19. **RID**: "Finetuning Large-Scale Pre-trained Language Models for Conversational Recommendation with Knowledge Graph." `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
+19. **CRFR**: "CRFR: Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs." `EMNLP(2021)` [[PDF]](https://aclanthology.org/2021.emnlp-main.355.pdf)
+20. **RID**: "Finetuning Large-Scale Pre-trained Language Models for Conversational Recommendation with Knowledge Graph." `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
+21. **RecInDial**: "RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models." `AACL(2022)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
+22. **MESE**: "Improving Conversational Recommendation Systems’ Quality with Context-Aware Item Meta Information." `NAACL(2022)` [[PDF]](https://arxiv.org/pdf/2112.08140.pdf) [[Code]](https://github.com/by2299/MESE)
+23. **C2-CRS**: "C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System." `WSDM(2022)` [[PDF]](https://arxiv.org/pdf/2201.02732.pdf) [[Code]](https://github.com/RUCAIBox/WSDM2022-C2CRS)
+24. **BARCOR**: "BARCOR: Towards A Unified Framework for Conversational Recommendation Systems." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2203.14257.pdf)
+25. **UniMIND**: "A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems." `TOIS(2023)` [[PDF]](https://arxiv.org/pdf/2204.06923.pdf) [[Code]](https://github.com/dengyang17/unimind)
+26. **UCCR**: "User-Centric Conversational Recommendation with Multi-Aspect User Modeling." `SIGIR(2022)` [[PDF]](https://arxiv.org/pdf/2204.09263.pdf) [[Code]](https://github.com/lisk123/UCCR)
+27. **CCRS**: "Customized Conversational Recommender Systems." `ECML-PKDD(2022)` [[PDF]](https://arxiv.org/pdf/2207.00814.pdf)
+28. **UniCRS**: "Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning." `KDD(2022)` [[PDF]](https://arxiv.org/pdf/2206.09363.pdf) [[Code]](https://github.com/RUCAIBox/UniCRS)
+29. **EGCR**: "EGCR: Explanation Generation for Conversational Recommendation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2208.08035.pdf)
+30. "Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2209.11386.pdf)
+31. **DICR**: "Aligning Recommendation and Conversation via Dual Imitation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2211.02848.pdf)
+
 
 ### Others
 
